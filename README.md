@@ -1,2 +1,2 @@
-# 
-Maybe can be possible to be forked to my other fork project
+# Lxaster 
+Perhaps it could be forked from another fork for this project (coming soon).
