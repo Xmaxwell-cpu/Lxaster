@@ -1,2 +1,2 @@
 # Lxaster 
-An Possibly Virtual Android written in Rust
+An Possibly Virtual Android written/madein Rust
