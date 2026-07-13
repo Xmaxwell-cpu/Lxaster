@@ -1,2 +1,2 @@
 # Lxaster 
-Perhaps it could be forked from another fork for this project (coming soon).
+An Possibly Virtual Android written in Rust
